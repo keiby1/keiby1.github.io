@@ -1142,10 +1142,10 @@ InputSync.prototype ={
 DR_EXPLAIN.namespace( 'DR_EXPLAIN.data_menu' );
 DR_EXPLAIN.data_menu = {
     // menu
-    DREX_NODE_NAMES: ["Начальная страница","1. Форма1. Обзор","2. Форма2. Обзор","1.1. Общая инфорация о форме1","1.2. Порядок действий","Общая информация о форме2"],
-    DREX_NODE_LINKS: ["index.htm","forma1__obzor.htm","forma2__obzor.htm","obshchaya_inforatsiya_o_forme1.htm","1_2__poryadok_dejstvij.htm","obshchaya_informatsiya_o_forme2.htm"],
-    DREX_NODE_CHILD_START: [1,3,5,6,6,6],
-    DREX_NODE_CHILD_END: [3,5,6,6,6,6],
+    DREX_NODE_NAMES: ["Начальная страница","Добро пожаловать","О системе","Что нового","1. Главное окно приложения","2. Меню настроек","3. Меню помощь","1.1. Главное меню. Общая инфорация","1.2. Порядок действий","2.1. Меню настроек. Общая информация","3.1. О приложении"],
+    DREX_NODE_LINKS: ["index.htm","dobro_pozhalovat.htm","o_sisteme.htm","chto_novogo.htm","glavnoe_okno_prilozheniya.htm","menyu_nastroek.htm","3__menyu_pomoshch.htm","glavnoe_menyu__obshchaya_inforatsiya.htm","1_2__poryadok_dejstvij.htm","2_1__menyu_nastroek__obshchaya_informatsiya.htm","3_1__o_prilozhenii.htm"],
+    DREX_NODE_CHILD_START: [1,7,7,7,7,9,10,11,11,11,11],
+    DREX_NODE_CHILD_END: [7,7,7,7,9,10,11,11,11,11,11],
     DREX_MENU_TYPE: 1,
     DREX_HAS_ROOT_NODE: 0};
 

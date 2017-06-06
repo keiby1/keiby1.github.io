@@ -2,17 +2,32 @@
  Начальная... Требуется Advanced-лицензия!
  index.htm
 2
- 1. Форма... Требуется Advanced-лицензия!
- forma1__obzor.htm
+ Добро по... Требуется Advanced-лицензия!
+ dobro_pozhalovat.htm
 3
- 1.1. Общая инф... Требуется Advanced-лицензия!
- obshchaya_inforatsiya_o_forme1.htm
+ О си... Требуется Advanced-лицензия!
+ o_sisteme.htm
 4
+ Что н... Требуется Advanced-лицензия!
+ chto_novogo.htm
+5
+ 1. Главное ок... Требуется Advanced-лицензия!
+ glavnoe_okno_prilozheniya.htm
+6
+ 1.1. Главное меню... Требуется Advanced-лицензия!
+ glavnoe_menyu__obshchaya_inforatsiya.htm
+7
  1.2. Поряд... Требуется Advanced-лицензия!
  1_2__poryadok_dejstvij.htm
-5
- 2. Форма... Требуется Advanced-лицензия!
- forma2__obzor.htm
-6
- Общая информ... Требуется Advanced-лицензия!
- obshchaya_informatsiya_o_forme2.htm
+8
+ 2. Меню ... Требуется Advanced-лицензия!
+ menyu_nastroek.htm
+9
+ 2.1. Меню настроек... Требуется Advanced-лицензия!
+ 2_1__menyu_nastroek__obshchaya_informatsiya.htm
+10
+ 3. Меню... Требуется Advanced-лицензия!
+ 3__menyu_pomoshch.htm
+11
+ 3.1. О п... Требуется Advanced-лицензия!
+ 3_1__o_prilozhenii.htm
